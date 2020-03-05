@@ -1,0 +1,36 @@
+*{
+margin: 0;
+outline: none;
+}
+body{
+    background-color: rgba(17, 17, 17, 0.986);
+}
+nav{
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    background-color: rgba(17, 17, 17, 0.8);
+    margin-bottom: 20px;
+    border: 1px solid black;
+}
+nav ul{
+    
+    padding: 0px 10px 0 0;
+    text-decoration: none;
+    list-style: none;
+}
+nav li{
+    margin-top: 40px;
+    
+}
+nav a{
+   
+    font-size: 20px;
+    text-decoration: none;
+    list-style: none;
+    color: wheat;
+}
+.container-exp{
+    text-align: center;
+    background-color: wheat;
+}
